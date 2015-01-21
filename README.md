@@ -3,7 +3,6 @@
 [![Build Status](https://travis-ci.org/DevMine/featscomp.png?branch=master)](https://travis-ci.org/DevMine/featscomp)
 [![GoDoc](http://godoc.org/github.com/DevMine/featscomp?status.svg)](http://godoc.org/github.com/DevMine/featscomp)
 [![GoWalker](http://img.shields.io/badge/doc-gowalker-blue.svg?style=flat)](https://gowalker.org/github.com/DevMine/featscomp)
-[![Gobuild Download](http://gobuild.io/badge/github.com/DevMine/featscomp/downloads.svg)](http://gobuild.io/github.com/DevMine/featscomp)
 
 `featscomp` computes 'features', as defined by the DevMine project and inserts
 them into the database.
